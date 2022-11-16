@@ -5,10 +5,10 @@ pipeline {
 	}
 	
 	environment {
-		PROJECT_ID = 'sage-courier-363514'
-                CLUSTER_NAME = 'mycluster'
+		PROJECT_ID = 'steel-pod-365713'
+                CLUSTER_NAME = 'cluster-3'
                 LOCATION = 'us-central1-c'
-                CREDENTIALS_ID = 'kubernetes'		
+                CREDENTIALS_ID = 'Kubernetes'		
 	}
 	
     stages {
